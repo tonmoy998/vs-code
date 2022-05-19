@@ -1,0 +1,49 @@
+{
+    "files.autoSave": "afterDelay",
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.https": {
+        "enable": false
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.mouseWheelZoom": true ,
+    "prettier.useEditorConfig": false,
+    "prettier.singleQuote": true,
+    "editor.fontSize": 22,
+    "editor.fontWeight": "600",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.iconTheme": "material-icon-theme",
+    "auto-rename-tag.activationOnLanguage": ["html", "xml", "php", "javascript"],
+    "editor.wordWrap": "on",
+    "files.associations": {
+        "*.html": "html"
+    },
+    "editor.fontFamily": "Radio Canada', sans-serif , 'Courier New'",
+    "editor.fontLigatures": true,
+    // TERMINAL
+    "terminal.integrated.fontFamily": " FiraCode NF,MesloLGS Nerd Font",
+     "powershell.startAutomatically": true,
+    "powershell.codeFormatting.autoCorrectAliases": true,
+    "powershell.scriptAnalysis.enable": true,
+    "powershell.integratedConsole.focusConsoleOnExecute": true,
+    "terminal.integrated.fontWeight": "550",
+    "terminal.integrated.fontSize": 17,
+    "terminal.integrated.shellIntegration.enabled": true,
+    "terminal.integrated.lineHeight": 1,
+    "liveServer.settings.donotVerifyTags": true,
+    "css.styleSheets": [
+        "https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.6.1/css/bootstrap.min.css",
+        "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css",
+        "https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.6.1/js/bootstrap.min.js"
+    ],
+    "editor.quickSuggestions": {
+        "comments": false,
+        "strings": true, 
+        "other": true
+    },
+    "workbench.colorCustomizations": {
+    "editor.background": "#292727",
+    "editor.foreground": "#fafafa"
+    },
+}
